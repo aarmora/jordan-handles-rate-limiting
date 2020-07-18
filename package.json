@@ -1,0 +1,32 @@
+{
+	"name": "jordan-handles-rate-limiting",
+	"version": "1.0.0",
+	"description": "Shows an example of how to time your functions and slow them down for things like rate limiting.",
+	"main": "./dist/index.js",
+	"scripts": {
+		"start": "tsc && node ./dist/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/aarmora/jordan-handles-rate-limiting.git"
+	},
+	"keywords": [
+		"typescript",
+		"javascript",
+		"rate",
+		"limiting",
+		"slow",
+		"down",
+		"script",
+		"time",
+		"scripts",
+		"asynchrous",
+		"i/o"
+	],
+	"author": "Jordan Hansen",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/aarmora/jordan-handles-rate-limiting/issues"
+	},
+	"homepage": "https://github.com/aarmora/jordan-handles-rate-limiting#readme"
+}
